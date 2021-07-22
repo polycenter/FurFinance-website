@@ -130,7 +130,7 @@ export const supportedPools = [
       256: '0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f',
     },
     tokenAddresses: {
-      1: '0x6b175474e89094c44da98b954eedeac495271d0f',
+      256: '0x6b175474e89094c44da98b954eedeac495271d0f',
     },
     name: 'Donald DAI',
     symbol: 'DAI-ETH SLP',
@@ -140,10 +140,10 @@ export const supportedPools = [
   {
     pid: 3,
     lpAddresses: {
-      1: '0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539',
+      256: '0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539',
     },
     tokenAddresses: {
-      1: '0x57ab1ec28d129707052df4df418d58a2d46d5f51',
+      256: '0x57ab1ec28d129707052df4df418d58a2d46d5f51',
     },
     name: 'Spartan Dollar',
     symbol: 'SUSD-ETH SLP',
@@ -153,10 +153,10 @@ export const supportedPools = [
   {
     pid: 7,
     lpAddresses: {
-      1: '0x001b6450083e531a5a7bf310bd2c1af4247e23d4',
+      256: '0x001b6450083e531a5a7bf310bd2c1af4247e23d4',
     },
     tokenAddresses: {
-      1: '0x04fa0d235c4abf4bcf4787af4cf447de572ef828',
+      256: '0x04fa0d235c4abf4bcf4787af4cf447de572ef828',
     },
     name: 'Umami Squid',
     symbol: 'UMA-ETH SLP',
@@ -166,10 +166,10 @@ export const supportedPools = [
   {
     pid: 9,
     lpAddresses: {
-      1: '0xA75F7c2F025f470355515482BdE9EFA8153536A8',
+      256: '0xA75F7c2F025f470355515482BdE9EFA8153536A8',
     },
     tokenAddresses: {
-      1: '0xba11d00c5f74255f56a5e366f4f77f5a186d7f55',
+      256: '0xba11d00c5f74255f56a5e366f4f77f5a186d7f55',
     },
     name: 'Band-osaurus',
     symbol: 'BAND-ETH SLP',
@@ -179,10 +179,10 @@ export const supportedPools = [
   {
     pid: 8,
     lpAddresses: {
-      1: '0xC40D16476380e4037e6b1A2594cAF6a6cc8Da967',
+      256: '0xC40D16476380e4037e6b1A2594cAF6a6cc8Da967',
     },
     tokenAddresses: {
-      1: '0x514910771af9ca656af840dff83e8264ecf986ca',
+      256: '0x514910771af9ca656af840dff83e8264ecf986ca',
     },
     name: 'Toadie Marine',
     symbol: 'LINK-ETH SLP',
@@ -192,10 +192,10 @@ export const supportedPools = [
   {
     pid: 10,
     lpAddresses: {
-      1: '0xCb2286d9471cc185281c4f763d34A962ED212962',
+      256: '0xCb2286d9471cc185281c4f763d34A962ED212962',
     },
     tokenAddresses: {
-      1: '0xd46ba6d942050d489dbd938a2c909a5d5039a161',
+      256: '0xd46ba6d942050d489dbd938a2c909a5d5039a161',
     },
     name: 'Ample Chicks',
     symbol: 'AMPL-ETH SLP',
@@ -205,10 +205,10 @@ export const supportedPools = [
   {
     pid: 4,
     lpAddresses: {
-      1: '0x31503dcb60119a812fee820bb7042752019f2355',
+      256: '0x31503dcb60119a812fee820bb7042752019f2355',
     },
     tokenAddresses: {
-      1: '0xc00e94cb662c3520282e6f5717214004a7f26888',
+      256: '0xc00e94cb662c3520282e6f5717214004a7f26888',
     },
     name: 'Compound Truffle',
     symbol: 'COMP-ETH SLP',
@@ -218,10 +218,10 @@ export const supportedPools = [
   {
     pid: 5,
     lpAddresses: {
-      1: '0x5E63360E891BD60C69445970256C260b0A6A54c6',
+      256: '0x5E63360E891BD60C69445970256C260b0A6A54c6',
     },
     tokenAddresses: {
-      1: '0x80fb784b7ed66730e8b1dbd9820afd29931aab03',
+      256: '0x80fb784b7ed66730e8b1dbd9820afd29931aab03',
     },
     name: 'Aave Boar',
     symbol: 'LEND-ETH SLP',
@@ -231,10 +231,10 @@ export const supportedPools = [
   {
     pid: 6,
     lpAddresses: {
-      1: '0xA1d7b2d891e3A1f9ef4bBC5be20630C2FEB1c470',
+      256: '0xA1d7b2d891e3A1f9ef4bBC5be20630C2FEB1c470',
     },
     tokenAddresses: {
-      1: '0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f',
+      256: '0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f',
     },
     name: 'Synthetic Snake',
     symbol: 'SNX-ETH SLP',
@@ -244,10 +244,10 @@ export const supportedPools = [
   {
     pid: 11,
     lpAddresses: {
-      1: '0x088ee5007C98a9677165D78dD2109AE4a3D04d0C',
+      256: '0x088ee5007C98a9677165D78dD2109AE4a3D04d0C',
     },
     tokenAddresses: {
-      1: '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e',
+      256: '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e',
     },
     name: 'YFI Whale',
     symbol: 'YFI-ETH SLP',
@@ -257,10 +257,10 @@ export const supportedPools = [
   {
     pid: 13,
     lpAddresses: {
-      1: '0x611cde65dea90918c0078ac0400a72b0d25b9bb1',
+      256: '0x611cde65dea90918c0078ac0400a72b0d25b9bb1',
     },
     tokenAddresses: {
-      1: '0x408e41876cccdc0f92210600ef50372656052a38',
+      256: '0x408e41876cccdc0f92210600ef50372656052a38',
     },
     name: 'REN Rhino',
     symbol: 'REN-ETH SLP',
@@ -270,10 +270,10 @@ export const supportedPools = [
   {
     pid: 14,
     lpAddresses: {
-      1: '0xaad22f5543fcdaa694b68f94be177b561836ae57',
+      256: '0xaad22f5543fcdaa694b68f94be177b561836ae57',
     },
     tokenAddresses: {
-      1: '0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5',
+      256: '0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5',
     },
     name: 'BASED Bull',
     symbol: 'BASED-sUSD SLP',
@@ -283,10 +283,10 @@ export const supportedPools = [
   {
     pid: 15,
     lpAddresses: {
-      1: '0x117d4288b3635021a3d612fe05a3cbf5c717fef2',
+      256: '0x117d4288b3635021a3d612fe05a3cbf5c717fef2',
     },
     tokenAddresses: {
-      1: '0x476c5E26a75bd202a9683ffD34359C0CC15be0fF',
+      256: '0x476c5E26a75bd202a9683ffD34359C0CC15be0fF',
     },
     name: 'SRM Shark',
     symbol: 'SRM-ETH SLP',
@@ -296,10 +296,10 @@ export const supportedPools = [
   {
     pid: 16,
     lpAddresses: {
-      1: '0x95b54c8da12bb23f7a5f6e26c38d04acc6f81820',
+      256: '0x95b54c8da12bb23f7a5f6e26c38d04acc6f81820',
     },
     tokenAddresses: {
-      1: '0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a',
+      256: '0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a',
     },
     name: 'YAMv2',
     symbol: 'YAMv2-ETH SLP',
@@ -309,10 +309,10 @@ export const supportedPools = [
   {
     pid: 17,
     lpAddresses: {
-      1: '0x58Dc5a51fE44589BEb22E8CE67720B5BC5378009',
+      256: '0x58Dc5a51fE44589BEb22E8CE67720B5BC5378009',
     },
     tokenAddresses: {
-      1: '0xD533a949740bb3306d119CC777fa900bA034cd52',
+      256: '0xD533a949740bb3306d119CC777fa900bA034cd52',
     },
     name: 'CRV Crocodile',
     symbol: 'CRV-ETH SLP',
@@ -322,10 +322,10 @@ export const supportedPools = [
   {
     pid: 22,
     lpAddresses: {
-      1: '0xf169CeA51EB51774cF107c88309717ddA20be167',
+      256: '0xf169CeA51EB51774cF107c88309717ddA20be167',
     },
     tokenAddresses: {
-      1: '0x2ba592F78dB6436527729929AAf6c908497cB200',
+      256: '0x2ba592F78dB6436527729929AAf6c908497cB200',
     },
     name: "Chef's Menu",
     symbol: 'CREAM-ETH SLP',
@@ -335,10 +335,10 @@ export const supportedPools = [
   {
     pid: 24,
     lpAddresses: {
-      1: '0xFcff3b04C499A57778ae2CF05584ab24278A7FCb',
+      256: '0xFcff3b04C499A57778ae2CF05584ab24278A7FCb',
     },
     tokenAddresses: {
-      1: '0x0d438f3b5175bebc262bf23753c1e53d03432bde',
+      256: '0x0d438f3b5175bebc262bf23753c1e53d03432bde',
     },
     name: "Chef's Menu",
     symbol: 'wNXM-ETH SLP',
@@ -348,10 +348,10 @@ export const supportedPools = [
   {
     pid: 25,
     lpAddresses: {
-      1: '0x382c4a5147Fd4090F7BE3A9Ff398F95638F5D39E',
+      256: '0x382c4a5147Fd4090F7BE3A9Ff398F95638F5D39E',
     },
     tokenAddresses: {
-      1: '0x5dbcf33d8c2e976c6b560249878e6f1491bca25c',
+      256: '0x5dbcf33d8c2e976c6b560249878e6f1491bca25c',
     },
     name: "Chef's Menu",
     symbol: 'yUSD-ETH SLP',
@@ -362,10 +362,10 @@ export const supportedPools = [
   {
     pid: 36,
     lpAddresses: {
-      1: '0x742c15d71ea7444964bc39b0ed729b3729adc361',
+      256: '0x742c15d71ea7444964bc39b0ed729b3729adc361',
     },
     tokenAddresses: {
-      1: '0xd26114cd6EE289AccF82350c8d8487fedB8A0C07',
+      256: '0xd26114cd6EE289AccF82350c8d8487fedB8A0C07',
     },
     name: "Chef's Menu",
     symbol: 'OMG-ETH SLP',
@@ -375,10 +375,10 @@ export const supportedPools = [
   {
     pid: 35,
     lpAddresses: {
-      1: '0x269db91fc3c7fcc275c2e6f22e5552504512811c',
+      256: '0x269db91fc3c7fcc275c2e6f22e5552504512811c',
     },
     tokenAddresses: {
-      1: '0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5',
+      256: '0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5',
     },
     name: "Chef's Menu",
     symbol: 'PICKLE-ETH SLP',
@@ -388,10 +388,10 @@ export const supportedPools = [
   {
     pid: 34,
     lpAddresses: {
-      1: '0x68c6d02d44e16f1c20088731ab032f849100d70f',
+      256: '0x68c6d02d44e16f1c20088731ab032f849100d70f',
     },
     tokenAddresses: {
-      1: '0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7',
+      256: '0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7',
     },
     name: "Chef's Menu",
     symbol: 'CORE-ETH SLP',
@@ -401,10 +401,10 @@ export const supportedPools = [
   {
     pid: 33,
     lpAddresses: {
-      1: '0xba13afecda9beb75de5c56bbaf696b880a5a50dd',
+      256: '0xba13afecda9beb75de5c56bbaf696b880a5a50dd',
     },
     tokenAddresses: {
-      1: '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2',
+      256: '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2',
     },
     name: "Chef's Menu",
     symbol: 'MKR-ETH SLP',
@@ -414,10 +414,10 @@ export const supportedPools = [
   {
     pid: 32,
     lpAddresses: {
-      1: '0x2dbc7dd86c6cd87b525bd54ea73ebeebbc307f68',
+      256: '0x2dbc7dd86c6cd87b525bd54ea73ebeebbc307f68',
     },
     tokenAddresses: {
-      1: '0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa',
+      256: '0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa',
     },
     name: "Chef's Menu",
     symbol: 'wBTC-tBTC SLP',
@@ -427,10 +427,10 @@ export const supportedPools = [
   {
     pid: 31,
     lpAddresses: {
-      1: '0x6463bd6026a2e7bfab5851b62969a92f7cca0eb6',
+      256: '0x6463bd6026a2e7bfab5851b62969a92f7cca0eb6',
     },
     tokenAddresses: {
-      1: '0x584bC13c7D411c00c01A62e8019472dE68768430',
+      256: '0x584bC13c7D411c00c01A62e8019472dE68768430',
     },
     name: "Chef's Menu",
     symbol: 'HEGIC-ETH SLP',
@@ -440,10 +440,10 @@ export const supportedPools = [
   {
     pid: 37,
     lpAddresses: {
-      1: '0xD75EA151a61d06868E31F8988D28DFE5E9df57B4',
+      256: '0xD75EA151a61d06868E31F8988D28DFE5E9df57B4',
     },
     tokenAddresses: {
-      1: '0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9',
+      256: '0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9',
     },
     name: "Chef's Menu",
     symbol: 'AAVE-ETH SLP',
@@ -454,10 +454,10 @@ export const supportedPools = [
   {
     pid: 19,
     lpAddresses: {
-      1: '0x36e2FCCCc59e5747Ff63a03ea2e5C0c2C14911e7',
+      256: '0x36e2FCCCc59e5747Ff63a03ea2e5C0c2C14911e7',
     },
     tokenAddresses: {
-      1: '0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272',
+      256: '0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272',
     },
     name: "Past Menu",
     symbol: 'xSUSHI-ETH SLP',
@@ -467,10 +467,10 @@ export const supportedPools = [
   {
    pid: 20,
    lpAddresses: {
-     1: '0x0Cfe7968e7c34A51217a7C9b9dc1690F416E027e',
+     256: '0x0Cfe7968e7c34A51217a7C9b9dc1690F416E027e',
    },
    tokenAddresses: {
-     1: '0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643',
+     256: '0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643',
    },
    name: "Past Menu",
    symbol: 'cDAI-DAI SLP',
@@ -480,10 +480,10 @@ export const supportedPools = [
  {
    pid: 21,
    lpAddresses: {
-     1: '0xceff51756c56ceffca006cd410b03ffc46dd3a58',
+     256: '0xceff51756c56ceffca006cd410b03ffc46dd3a58',
    },
    tokenAddresses: {
-     1: '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599',
+     256: '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599',
    },
    name: "Past Menu",
    symbol: 'WBTC-ETH SLP',
@@ -493,10 +493,10 @@ export const supportedPools = [
  {
    pid: 23,
    lpAddresses: {
-     1: '0x17b3C19Bd640a59E832AB73eCcF716CB47419846',
+     256: '0x17b3C19Bd640a59E832AB73eCcF716CB47419846',
    },
    tokenAddresses: {
-     1: '0xD5525D397898e5502075Ea5E830d8914f6F0affe',
+     256: '0xD5525D397898e5502075Ea5E830d8914f6F0affe',
    },
    name: "Past Menu",
    symbol: 'MEME-ETH SLP',
@@ -506,10 +506,10 @@ export const supportedPools = [
  {
    pid: 26,
    lpAddresses: {
-     1: '0x2024324a99231509a3715172d4f4f4e751b38d4d',
+     256: '0x2024324a99231509a3715172d4f4f4e751b38d4d',
    },
    tokenAddresses: {
-     1: '0x5dbcf33d8c2e976c6b560249878e6f1491bca25c',
+     256: '0x5dbcf33d8c2e976c6b560249878e6f1491bca25c',
    },
    name: "Past Menu",
    symbol: 'yUSD-WBTC SLP',
@@ -519,10 +519,10 @@ export const supportedPools = [
  {
    pid: 27,
    lpAddresses: {
-     1: '0x0be88ac4b5C81700acF3a606a52a31C261a24A35',
+     256: '0x0be88ac4b5C81700acF3a606a52a31C261a24A35',
    },
    tokenAddresses: {
-     1: '0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b',
+     256: '0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b',
    },
    name: "Past Menu",
    symbol: 'CRO-ETH SLP',
@@ -532,10 +532,10 @@ export const supportedPools = [
  {
    pid: 28,
    lpAddresses: {
-     1: '0x518d6CE2D7A689A591Bf46433443C31615b206C5',
+     256: '0x518d6CE2D7A689A591Bf46433443C31615b206C5',
    },
    tokenAddresses: {
-     1: '0xeb4c2781e4eba804ce9a9803c67d0893436bb27d',
+     256: '0xeb4c2781e4eba804ce9a9803c67d0893436bb27d',
    },
    name: "Past Menu",
    symbol: 'renBTC-WBTC SLP',

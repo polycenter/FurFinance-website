@@ -40,16 +40,16 @@ export const addressMap = {
 
 export const contractAddresses = {
   sushi: {
-    1: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
+    256: '0x5A2453C158cf0eC70fcB0a4297250285956C1bA0',
   },
   masterChef: {
-    1: '0xc2edad668740f1aa35e4d8f227fb8e17dca888cd',
+    256: '0x65a2a3a74C16306ADf9542AfA5850D170B5Be6DC',
   },
   weth: {
-    1: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+    256: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
   },
   xSushi: {
-    1: '0x8798249c2e607446efb7ad49ec89dd1865ff4272'
+    256: '0x0F71CA33AFBbea1289E36453841ddAB7620be0C8'
   }
 }
 
@@ -75,10 +75,10 @@ export const supportedPools = [
   {
     pid: 12,
     lpAddresses: {
-      1: '0x795065dCc9f64b5614C407a6EFDC400DA6221FB0',
+      256: '0x795065dCc9f64b5614C407a6EFDC400DA6221FB0',
     },
     tokenAddresses: {
-      1: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
+      256: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
     },
     name: 'Sushi Party!',
     symbol: 'SUSHI-ETH SLP',
@@ -88,10 +88,10 @@ export const supportedPools = [
   {
     pid: 18,
     lpAddresses: {
-      1: '0xdafd66636e2561b0284edde37e42d192f2844d40', //change this
+      256: '0xdafd66636e2561b0284edde37e42d192f2844d40', //change this
     },
     tokenAddresses: {
-      1: '0x1f9840a85d5af5bf1d1762f925bdaddc4201f984',
+      256: '0x1f9840a85d5af5bf1d1762f925bdaddc4201f984',
     },
     name: 'UNI Unicorn',
     symbol: 'UNI-ETH SLP',
@@ -101,10 +101,10 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      1: '0x06da0fd433C1A5d7a4faa01111c044910A184553',
+      256: '0x06da0fd433C1A5d7a4faa01111c044910A184553',
     },
     tokenAddresses: {
-      1: '0xdac17f958d2ee523a2206206994597c13d831ec7',
+      256: '0xdac17f958d2ee523a2206206994597c13d831ec7',
     },
     name: 'Tether Turtle',
     symbol: 'USDT-ETH SLP',
@@ -114,10 +114,10 @@ export const supportedPools = [
   {
     pid: 1,
     lpAddresses: {
-      1: '0x397FF1542f962076d0BFE58eA045FfA2d347ACa0',
+      256: '0x397FF1542f962076d0BFE58eA045FfA2d347ACa0',
     },
     tokenAddresses: {
-      1: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
+      256: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
     },
     name: 'Circle Snail',
     symbol: 'USDC-ETH SLP',
@@ -127,7 +127,7 @@ export const supportedPools = [
   {
     pid: 2,
     lpAddresses: {
-      1: '0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f',
+      256: '0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f',
     },
     tokenAddresses: {
       1: '0x6b175474e89094c44da98b954eedeac495271d0f',

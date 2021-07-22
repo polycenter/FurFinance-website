@@ -17,7 +17,7 @@ const StakeXSushi: React.FC = () => {
   const {
     tokenAddress,
   } = {
-    tokenAddress: contractAddresses.xSushi[1],
+    tokenAddress: contractAddresses.xSushi[256],
   }
 
   const [totalSupply, setTotalSupply] = useState<BigNumber>()

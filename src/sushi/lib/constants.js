@@ -457,7 +457,7 @@ export const supportedPools = [
       256: '0x36e2FCCCc59e5747Ff63a03ea2e5C0c2C14911e7',
     },
     tokenAddresses: {
-      256: '0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272',
+      256: '0x0F71CA33AFBbea1289E36453841ddAB7620be0C8',
     },
     name: "Past Menu",
     symbol: 'xSUSHI-ETH SLP',
